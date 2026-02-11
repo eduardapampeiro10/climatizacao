@@ -1,13 +1,3 @@
-import os
-
-# Caminho onde o site será criado (mude se quiser)
-site_path = "meu_site"
-
-# Cria as pastas principais
-os.makedirs(f"{site_path}/css", exist_ok=True)
-os.makedirs(f"{site_path}/images", exist_ok=True)
-
-# Conteúdo do index.html
 index_html = """<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -33,44 +23,3 @@ index_html = """<!DOCTYPE html>
 </html>
 """
 
-# Conteúdo do style.css
-style_css = """body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color: #f2f2f2;
-}
-
-header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 20px 0;
-}
-
-main {
-    padding: 20px;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-"""
-
-# Cria os arquivos
-with open(f"{site_path}/index.html", "w", encoding="utf-8") as f:
-    f.write(index_html)
-
-with open(f"{site_path}/css/style.css", "w", encoding="utf-8") as f:
-    f.write(style_css)
-
-# Cria um arquivo de imagem vazio (só para teste)
-with open(f"{site_path}/images/logo.png", "wb") as f:
-    pass  # Você pode substituir por uma imagem real depois
-
-print(f"Site criado na pasta '{site_path}' com sucesso!")
