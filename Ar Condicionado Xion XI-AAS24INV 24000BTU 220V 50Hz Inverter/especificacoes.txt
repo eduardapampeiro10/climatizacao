@@ -1,0 +1,3 @@
+Marca: Xion
+Capacidade: 24.000 BTU
+Voltagem: 220 Volts / 50Hz

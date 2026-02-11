@@ -1,0 +1,5 @@
+Marca: Xion
+Voltagem: 220V
+Capacidade Térmica: 9000 BTU
+Função: Frio
+Tecnologia: Convencional

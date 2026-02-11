@@ -1,0 +1,10 @@
+Marca: Joog
+Capacidade: 18000 BTU
+Voltagem: 220 Volts
+Frequência: 60 Hz
+Conectividade Wireless: Wi-Fi
+Funções: Frio - Quente
+Resistente a Água: Certificação IPX4
+Consumo: Ar Frio: 1800W - Ar Quente: 2500W
+Ruído: Interno: 45 dB(A) - Externo: 55 dB(A)
+Inclui: Controle Remoto - Kit de Instalação

@@ -1,0 +1,12 @@
+Marca: Midea
+BTUs: Resfriamento: 18.000 - Aquecimento: 18.000
+Voltagem: 220 - 230 Volts
+Frequência: 60Hz
+Corrente de Entrada: Resfriamento: 7.0 A - Aquecimento: 6.5 A
+Funções: Frio - Quente - Modo Sleep - Temporizador - FAN (Ventilador) - DRY - Swing - Turbo - Clean - Eco
+Tecnologia: Inverter
+Controle Remoto: Com display LCD e botões de configurações das funções integradas
+Rendimento: Certificação IPX4
+Peso Bruto: 44302 Gramas
+Dimensões: Embalagem: Motor: 103.5 x 29.2 x 38 Cm - Split: 89 x 33.3 x 59.4 Cm
+Inclui: Controle Remoto - 2 pilhas AAA

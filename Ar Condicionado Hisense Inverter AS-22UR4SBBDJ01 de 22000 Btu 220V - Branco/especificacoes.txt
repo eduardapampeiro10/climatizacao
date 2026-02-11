@@ -1,0 +1,4 @@
+Marca: Hisense
+Voltagem: 220V
+Função: Frio
+Tecnologia: Inverter

@@ -1,0 +1,12 @@
+Marca: Audisat
+BTUs: Resfriamento: 18.000 BTU - Aquecimento: 18.000 BTU
+Fluxo de Ar: 820 m³/h
+Voltagem: 220 - 230 Volts
+Frequência: 60Hz
+Corrente de Entrada: Resfriamento: 8.4 A - Aquecimento: 7.8 A
+Ruído: Interno: 44 dB(A) - Externo: 54 dB(A)
+Rendimento: Certificação IPX4
+Funções: Frio - Quente - Modo Sleep - Temporizador - FAN (Ventilador) - Turbo - H-Sweep - V-Sweep
+Peso Bruto: 49984 Gramas
+Dimensões: Embalagem: Motor: 88.5 x 35.5 x 60.7 Cm - Split: 97.5 x 34.9 x 28.3 Cm
+Inclui: Controle Remoto - Kit de Instalação - 2 pilhas AAA - Manual

@@ -1,0 +1,5 @@
+Marca: Mabe
+Voltagem: 220V
+Função: Frio
+Capacidade Térmica: 18000 BTU
+Tecnologia: Convencional

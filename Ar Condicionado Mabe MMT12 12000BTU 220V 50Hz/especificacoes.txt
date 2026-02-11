@@ -1,0 +1,6 @@
+Marca: Mabe
+Capacidade: 12.000 BTU
+Voltagem: 220 Volts
+Frequência: 50Hz
+Funções: Função Sleep - Função Turbo - Quente e Frio - Arranque Programável - Modo Noturno - Funcionamento Silencioso - Reinicialização Automática
+Inclui: Controle Remoto - Kit de Instalação

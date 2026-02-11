@@ -1,0 +1,7 @@
+Marca: Midea
+Capacidade: 18.000 BTU
+Voltagem: 220 - 230 Volts / 60Hz
+Consumo: Ar frio 2100W - Ar quente 1239W
+Funções: Ar frio - Ar quente - Fluxo de ar inteligente - Modo Eco - Modo de suspensão
+Características: A exclusiva Tecnologia AI ECOMASTER oferece até 30% mais economia de energia, em qualquer temperatura escolhida, garantindo conforto e a climatização ideal para o seu ambiente - Conectividade avançada via aplicativo SmartHome permite controle por voz via Alexa, Google Assistant e Apple Siri
+Inclui: Controle Remoto

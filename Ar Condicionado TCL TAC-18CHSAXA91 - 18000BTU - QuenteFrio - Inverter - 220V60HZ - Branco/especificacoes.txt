@@ -1,0 +1,6 @@
+Marca: TCL
+Voltagem: 220V
+Função: Quente e Frio
+Frequência de Operação: 60 Hz
+Capacidade Térmica: 18000 BTU
+Tecnologia: Inverter

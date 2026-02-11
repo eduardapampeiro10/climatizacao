@@ -1,0 +1,6 @@
+Marca: Gree
+Voltagem: 220V
+Função: Quente e Frio
+Frequência de Operação: 60 Hz
+Capacidade Térmica: 12000 BTU
+Tecnologia: Convencional

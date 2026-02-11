@@ -1,0 +1,6 @@
+Marca: Midea
+Voltagem: 220V
+Frequência de Operação: 50 Hz
+Função: Quente e Frio
+Capacidade Térmica: 12000 BTU
+Tecnologia: Inverter

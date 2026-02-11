@@ -1,0 +1,6 @@
+Marca: TCL
+Voltagem: 220V
+Frequência de Operação: 50 Hz
+Função: Quente e Frio
+Capacidade Térmica: 30000 BTU
+Tecnologia: Convencional

@@ -1,0 +1,5 @@
+Marca: Amenews
+BTUs: 24.000 BTU
+Voltagem: 220 Volts
+Frequência: 50/60 Hz
+Tecnologia: Inverter

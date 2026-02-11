@@ -1,0 +1,5 @@
+Marca: Audisat
+Frequência de Operação: 60 Hz
+Função: Frio
+Capacidade Térmica: 24000 BTU
+Tecnologia: Convencional

@@ -1,0 +1,10 @@
+Marca: LG
+Capacidade: 12000 BTU
+Voltagem: 220 Volts
+Frequência: 50/60 Hz
+Ruído: Interior: 42 dB - Exterior: 50 dB
+Tecnologia: Inverter
+Conectividade Wireless: Wi-Fi
+Características: Com filtro purificador - Baixo nível de ruído - LED indicador de temperatura
+Funções: Ar frio - Ar quente - Economia de energia - Limpeza automática - Função Jet Dry - Sono confortável - Diagnóstico inteligente - Controle de voz - Aplicativo ThinQ
+Inclui: Controle Remoto - Kit de Instalação

@@ -1,0 +1,2 @@
+Função: suporte de carga 
+Tecnologia: Convencional

@@ -1,0 +1,10 @@
+Marca: LG
+Capacidade: 18000 BTU
+Voltagem: 220 Volts
+Frequência: 50/60 Hz
+Ruído: Interior: 60 dB - Exterior: 65 dB
+Tecnologia: Dual Inverter
+Conectividade Wireless: Wi-Fi
+Características: Com filtro purificador - Baixo nível de ruído - LED indicador de temperatura
+Funções: Ar frio - Ar quente - Economia de energia - Monitoramento do uso de energia na tela LED - Limpeza automática - Função Jet Dry - Sono confortável - Diagnóstico inteligente - Controle de voz - Aplicativo ThinQ
+Inclui: Controle Remoto - Kit de Instalação

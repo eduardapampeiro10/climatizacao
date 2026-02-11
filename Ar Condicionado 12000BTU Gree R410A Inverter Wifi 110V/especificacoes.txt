@@ -1,0 +1,5 @@
+Marca: Gree
+Voltagem: 110V
+Função: Frio
+Capacidade Térmica: 12000 BTU
+Tecnologia: Inverter

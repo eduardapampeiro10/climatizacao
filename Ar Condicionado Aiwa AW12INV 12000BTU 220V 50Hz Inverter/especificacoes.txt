@@ -1,0 +1,13 @@
+Marca: Aiwa
+BTUs: Resfriamento: 12.000 BTU - Aquecimento: 13.000 BTU
+Fluxo de Ar: 550 m³/h
+Voltagem: 220 Volts
+Frequência: 50Hz
+Corrente de Entrada: Resfriamento: 4.6 A - Aquecimento: 4.5 A
+Ruído: Interno: 42 dB(A) - Externo: 52 dB(A)
+Tecnologia: Inverter
+Rendimento: Certificação IPX4
+Funções: Frio - Quente - Modo Sleep - Temporizador - FAN (Ventilador) - Speed - I Feel - Sweep - Clean - UVC - Eco - Quiet - Turbo
+Peso Bruto: 35278 Gramas
+Dimensões: Embalagem: Motor: 77.1 x 33.6 x 57.3 Cm - Split: 86 x 30.8 x 24.3 Cm
+Inclui: Controle Remoto - Kit de Instalação - 2 pilhas AAA - Manual

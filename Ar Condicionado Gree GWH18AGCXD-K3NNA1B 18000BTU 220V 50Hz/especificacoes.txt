@@ -1,0 +1,11 @@
+Marca: Gree
+BTUs: 18.000 BTU
+Fluxo de Ar: 650 m³/h
+Voltagem: 220 - 240 Volts
+Frequência: 50Hz
+Ruído: Interno: 40 dB(A) - Externo: 53 dB(A)
+Rendimento: Certificação IPX4
+Funções: Frio - Quente - Modo Sleep - Temporizador - FAN (Ventilador) - Swing - Turbo
+Peso Bruto: 54181 Gramas
+Dimensões: Embalagem: Motor: 87.6 x 39.7 x 61.3 Cm - Split: 87 x 35.5 x 25.9 Cm
+Inclui: Controle Remoto - 2 pilhas AAA - Manual

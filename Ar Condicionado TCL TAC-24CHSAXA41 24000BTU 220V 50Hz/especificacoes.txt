@@ -1,0 +1,13 @@
+Marca: TCL
+BTUs: Resfriamento: 24.000 BTU - Aquecimento: 24.000 BTU
+Voltagem: 220 Volts
+Frequência: 50Hz
+Fluxo de Ar: 1000 m³/h
+Corrente de Entrada: Resfriamento: 10.9 A - Aquecimento: 10.7 A
+Ruído: Interno: 46 dB(A) - Externo: 56 dB(A)
+Funções: Frio - Quente - Modo Sleep - Temporizador - FAN (Ventilador) - Swing - Turbo
+Controle Remoto: Com display LCD e botões de configurações das funções integradas
+Rendimento: Certificação IPX4
+Peso Bruto: 50816 Gramas
+Dimensões: Embalagem: Motor: 89 x 39.2 x 64.6 Cm - Split: 7 x 40.1 x 31.4 Cm
+Inclui: Kit de Instalação - 2 pilhas AAA - Manual

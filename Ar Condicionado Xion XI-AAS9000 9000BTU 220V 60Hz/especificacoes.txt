@@ -1,0 +1,7 @@
+Marca: Xion
+BTUs: 9.000 BTU
+Voltagem: 220 Volts
+Frequência: 60Hz
+Funções: Frio - Quente
+Tipo de Gás Refrigerante: R-410A
+Inclui: Controle Remoto

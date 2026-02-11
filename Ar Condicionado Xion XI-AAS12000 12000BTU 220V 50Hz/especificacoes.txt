@@ -1,0 +1,4 @@
+Marca: Xion
+BTUs: 12.000 BTU
+Voltagem: 220 Volts
+Frequência: 50Hz

@@ -1,0 +1,6 @@
+Marca: Xion
+Voltagem: 220V
+Frequência de Operação: 50 Hz
+Função: Frio
+Capacidade Térmica: 18000 BTU
+Tecnologia: Convencional

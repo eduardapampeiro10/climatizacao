@@ -1,0 +1,12 @@
+Marca: Gree
+BTUs: 30.000 BTU
+Fluxo de Ar: 1500 m³/h
+Voltagem: 220 - 240 Volts
+Frequência: 50/60 Hz
+Ruído: Interno: 45 dB(A) - Externo: 60 dB(A)
+Rendimento: Certificação IPX4
+Funções: Frío - Caliente - Modo Sleep - Temporizador - FAN (Ventilador) - Turbo
+Características: Compatível com aplicativo GREE+ para dispositivos com Android 4.4, iOS 7.0 ou versões superiores
+Peso Bruto: 66740 Gramas
+Dimensões: Embalagem: Motor: 102.6 x 45.4 x 72.5 Cm - Split: 112 x 40.2 x 32.4 Cm
+Inclui: Controle Remoto - 2 pilhas AAA - Manual
