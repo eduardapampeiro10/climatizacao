@@ -1,4 +1,0 @@
-Marca: Climax
-Função: Frio
-Capacidade Térmica: 60000 BTU
-Tecnologia: Convencional

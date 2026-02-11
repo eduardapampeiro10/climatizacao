@@ -1,5 +1,0 @@
-Marca: Coby
-Voltagem: 220V
-Função: Frio
-Capacidade Térmica: 12000 BTU
-Tecnologia: Inverter

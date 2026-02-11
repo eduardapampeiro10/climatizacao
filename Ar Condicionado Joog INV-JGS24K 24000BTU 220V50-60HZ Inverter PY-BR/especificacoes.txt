@@ -1,6 +1,0 @@
-Marca: Joog
-Voltagem: 220V
-Frequência de Operação: 50 Hz
-Função: Frio
-Capacidade Térmica: 24000 BTU
-Tecnologia: Inverter

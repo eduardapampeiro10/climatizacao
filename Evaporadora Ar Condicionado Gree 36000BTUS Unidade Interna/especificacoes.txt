@@ -1,4 +1,0 @@
-Marca: Gree
-Função: Frio
-Capacidade Térmica: 36000 BTU
-Tecnologia: Convencional

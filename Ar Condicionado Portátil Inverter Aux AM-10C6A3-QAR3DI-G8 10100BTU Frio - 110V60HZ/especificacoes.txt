@@ -1,6 +1,0 @@
-Marca: Aux
-Voltagem: 110V
-Capacidade Térmica: 8000 BTU
-Frequência de Operação: 60 Hz
-Função: Frio
-Tecnologia: Convencional

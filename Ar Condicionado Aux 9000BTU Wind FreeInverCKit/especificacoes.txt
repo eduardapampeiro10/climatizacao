@@ -1,4 +1,0 @@
-Marca: Aux
-Capacidade Térmica: 9000 BTU
-Função: Frio
-Tecnologia: Convencional

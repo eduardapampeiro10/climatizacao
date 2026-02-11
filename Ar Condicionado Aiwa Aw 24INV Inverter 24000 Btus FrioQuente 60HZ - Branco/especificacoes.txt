@@ -1,5 +1,0 @@
-Marca: Aiwa
-Função: Quente e Frio
-Frequência de Operação: 60 Hz
-Capacidade Térmica: 24000 BTU
-Tecnologia: Inverter

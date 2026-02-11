@@ -1,3 +1,0 @@
-Marca: Xion
-Função: suporte carga
-Tecnologia: Convencional

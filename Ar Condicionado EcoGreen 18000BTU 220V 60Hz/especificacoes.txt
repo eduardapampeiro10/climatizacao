@@ -1,4 +1,0 @@
-Marca: EcoGreen
-Capacidade: 18000 BTU
-Voltagem: 220 Volts
-Frequência: 60Hz

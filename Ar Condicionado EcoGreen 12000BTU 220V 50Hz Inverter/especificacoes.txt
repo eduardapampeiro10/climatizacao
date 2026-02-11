@@ -1,5 +1,0 @@
-Marca: EcoGreen
-Capacidade: 12000 BTU
-Voltagem: 220 Volts
-Frequência: 50Hz
-Tecnologia: Inverter

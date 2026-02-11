@@ -1,9 +1,0 @@
-Marca: LG
-Capacidade: 18000 BTU
-Voltagem: 220 Volts
-Frequência: 50/60 Hz
-Tecnologia: Dual Inverter
-Consumo: Ar Frio: 1640W - Ar Quente: 1500W
-Características: Com filtro purificador - Baixo nível de ruído - LED indicador de temperatura - Utiliza gás ecológico
-Funções: Ar frio - Ar quente - Proteção contra flutuação da tensão de alimentação - Capacitor com proteção anticorrosiva - Autolimpeza - Reinício automático - Função de autodiagnóstico - Comfort Sleep - Diagnóstico inteligente - Fluxo de ar automático
-Inclui: Controle Remoto - Kit de Instalação

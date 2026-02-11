@@ -1,6 +1,0 @@
-Marca: Gree
-BTUs: 12.000 BTU
-Voltagem: 110 Volts
-Frequência: 60Hz
-Funções: Esfriar
-Ruído: 55 dB

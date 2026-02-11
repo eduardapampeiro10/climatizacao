@@ -1,5 +1,0 @@
-Marca: Heiko
-Capacidade: 12000 BTU
-Voltagem: 220 Volts
-Frequência: 60 Hz
-Inclui: Controle Remoto - Kit de Instalação

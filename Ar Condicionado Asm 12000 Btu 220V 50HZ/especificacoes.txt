@@ -1,4 +1,0 @@
-Frequência de Operação: 50 Hz
-Função: Frio
-Capacidade Térmica: 12000 BTU
-Tecnologia: Convencional

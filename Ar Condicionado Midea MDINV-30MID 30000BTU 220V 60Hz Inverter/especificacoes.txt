@@ -1,8 +1,0 @@
-Marca: Midea
-BTUs: 30.000 BTU
-Voltagem: 220 Volts
-Frequência: 60Hz
-Tecnologia: Inverter
-Funções: Ar frio - Ar quente - Fluxo de ar inteligente - Modo Eco - Modo de suspensão
-Características: Reinicialização automática de corte de energia
-Inclui: Controle Remoto

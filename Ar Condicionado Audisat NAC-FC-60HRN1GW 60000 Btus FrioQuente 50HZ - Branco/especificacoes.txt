@@ -1,4 +1,0 @@
-Marca: Audisat
-Frequência de Operação: 60 Hz
-Função: Frio
-Tecnologia: Convencional

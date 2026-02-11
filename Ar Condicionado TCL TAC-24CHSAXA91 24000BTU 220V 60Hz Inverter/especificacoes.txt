@@ -1,3 +1,0 @@
-Marca: TCL
-Capacidade: 24.000 BTU
-Voltagem: 220 Volts / 60Hz

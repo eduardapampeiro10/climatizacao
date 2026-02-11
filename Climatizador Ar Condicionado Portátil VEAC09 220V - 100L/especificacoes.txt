@@ -1,5 +1,0 @@
-Voltagem: 220V
-Frequência de Operação: 50 Hz
-Capacidade Térmica: 9000 BTU
-Função: Frio
-Tecnologia: Convencional

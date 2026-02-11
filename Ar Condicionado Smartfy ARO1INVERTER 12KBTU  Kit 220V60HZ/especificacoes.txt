@@ -1,5 +1,0 @@
-Marca: Smartfy
-Voltagem: 220V
-Frequência de Operação: 60 Hz
-Função: Frio
-Tecnologia: Inverter

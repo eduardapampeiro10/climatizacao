@@ -1,6 +1,0 @@
-Marca: Coby
-BTUs: 24.000 BTU
-Voltagem: 220 Volts
-Frequência: 50Hz
-Funções: Frio - Quente - Modo Sleep - Temporizador - Turbo
-Características: Com filtro purificador - Baixo nível de ruído - LED indicador de temperatura - Utiliza gás ecológico - Tubo de cobre de 3 metros

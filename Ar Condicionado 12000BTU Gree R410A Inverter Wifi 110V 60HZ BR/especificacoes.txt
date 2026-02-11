@@ -1,6 +1,0 @@
-Marca: Gree
-Voltagem: 110V
-Frequência de Operação: 60 Hz
-Função: Frio
-Capacidade Térmica: 12000 BTU
-Tecnologia: Inverter

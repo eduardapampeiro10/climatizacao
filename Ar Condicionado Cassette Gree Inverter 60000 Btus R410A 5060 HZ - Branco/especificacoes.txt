@@ -1,5 +1,0 @@
-Marca: Gree
-Frequência de Operação: 50 Hz
-Função: Frio
-Capacidade Térmica: 60000 BTU
-Tecnologia: Inverter

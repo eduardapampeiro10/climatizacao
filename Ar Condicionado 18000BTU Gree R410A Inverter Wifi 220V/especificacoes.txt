@@ -1,5 +1,0 @@
-Marca: Gree
-Voltagem: 220V
-Função: Frio
-Capacidade Térmica: 18000 BTU
-Tecnologia: Inverter

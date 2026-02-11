@@ -1,4 +1,0 @@
-Marca: Samsung
-Função: Frio
-Capacidade Térmica: 12000 BTU
-Tecnologia: Convencional

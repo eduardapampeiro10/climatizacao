@@ -1,6 +1,0 @@
-Marca: Midea
-BTUs: 12.000 BTU
-Voltagem: 220 Volts
-Frequência: 50Hz
-Rendimento: Certificação IPX4
-Funções: Frio - Quente - Modo Sleep - Temporizador - Turbo

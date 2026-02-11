@@ -1,6 +1,0 @@
-Marca: HYE
-Voltagem: 220V
-Frequência de Operação: 60 Hz
-Capacidade Térmica: 9000 BTU
-Função: Frio
-Tecnologia: Inverter

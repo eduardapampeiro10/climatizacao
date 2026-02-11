@@ -1,7 +1,0 @@
-Marca: HYE
-BTUs: 9.000 BTU
-Voltagem: 220 Volts
-Frequência: 60Hz
-Ruído: Interno: 45 dB(A) - Externo: 55 dB(A)
-Funções: Frio - Quente - Modo Sleep - Temporizador - Turbo
-Inclui: Controle Remoto - Kit de Instalação - 2 pilhas AAA
