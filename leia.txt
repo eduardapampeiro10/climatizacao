@@ -1,0 +1,9 @@
+mkdir loja    criar pasta
+cd loja
+
+
+python3 gerar_catalogo.py
+
+depois index.html
+
+
